@@ -1,0 +1,10 @@
+c:\users\ramon\source\repos\Estructuras con Arreglos\Estructuras con Arreglos\bin\Debug\Estructuras con Arreglos.exe.config
+c:\users\ramon\source\repos\Estructuras con Arreglos\Estructuras con Arreglos\bin\Debug\Estructuras con Arreglos.exe
+c:\users\ramon\source\repos\Estructuras con Arreglos\Estructuras con Arreglos\bin\Debug\Estructuras con Arreglos.pdb
+c:\users\ramon\source\repos\Estructuras con Arreglos\Estructuras con Arreglos\obj\Debug\Estructuras con Arreglos.csprojResolveAssemblyReference.cache
+c:\users\ramon\source\repos\Estructuras con Arreglos\Estructuras con Arreglos\obj\Debug\Estructuras_con_Arreglos.Form1.resources
+c:\users\ramon\source\repos\Estructuras con Arreglos\Estructuras con Arreglos\obj\Debug\Estructuras_con_Arreglos.Properties.Resources.resources
+c:\users\ramon\source\repos\Estructuras con Arreglos\Estructuras con Arreglos\obj\Debug\Estructuras con Arreglos.csproj.GenerateResource.Cache
+c:\users\ramon\source\repos\Estructuras con Arreglos\Estructuras con Arreglos\obj\Debug\Estructuras con Arreglos.csproj.CoreCompileInputs.cache
+c:\users\ramon\source\repos\Estructuras con Arreglos\Estructuras con Arreglos\obj\Debug\Estructuras con Arreglos.exe
+c:\users\ramon\source\repos\Estructuras con Arreglos\Estructuras con Arreglos\obj\Debug\Estructuras con Arreglos.pdb
